@@ -1,0 +1,1 @@
+const makeReq = new XMLHttpRequest();

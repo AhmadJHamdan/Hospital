@@ -1,0 +1,68 @@
+body {
+  background-color: cadetblue;
+}
+
+p {
+  color: wheat;
+  margin: 2rem;
+  font-size: xx-large;
+}
+
+.patients {
+  margin: 2rem 2rem 2rem 2rem;
+  background-color: aliceblue;
+}
+
+img {
+  margin: 2rem;
+  width: 100px;
+  height: 100px;
+  border-radius: 3rem;
+}
+
+.ready {
+  color: green;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.notready {
+  color: red;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.pinfo {
+  color: cadetblue;
+  font-size: xx-large;
+  width: 50%;
+  text-align: center;
+}
+.status {
+  margin: 1rem;
+}
+
+span.keeptogether {
+  white-space: nowrap;
+}
+
+/* Selection Part */
+
+input {
+  margin: 0rem 2rem 0rem 2rem;
+  height: 100%;
+  width: 7rem;
+}
+
+button {
+  margin: 0rem 2rem 0rem 2rem;
+  height: 100%;
+  width: 7rem;
+}
+
+#pnum {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0rem 0rem 0rem;
+}
